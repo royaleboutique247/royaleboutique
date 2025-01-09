@@ -2,35 +2,46 @@ const featuredItems = () => {
 
     const data = [
         {
-            picture: 'images/home/product1.jpg',
+            picture: 'images/suits/suit-1.jpg',
             price: '₦56',
-            name: 'Easy Polo Black Edition'
+            name: 'Suit'
         },
         {
-            picture: 'images/home/product2.jpg',
+            picture: 'images/pollo/pollo-1.jpg',
             price: '₦56',
-            name: 'Easy Polo Black Edition'
+            name: 'Polo'
         },
         {
-            picture: 'images/home/product3.jpg',
+            picture: 'images/shoes/shoe-1.jpg',
             price: '₦56',
-            name: 'Easy Polo Black Edition'
+            name: 'Shoe'
         },
         {
-            picture: 'images/home/product4.jpg',
+            picture: 'images/jean/jean-1.jpg',
             price: '₦56',
-            name: 'Easy Polo Black Edition'
+            name: 'Jean'
         },
         {
-            picture: 'images/home/product5.jpg',
+            picture: 'images/shades/shade-1.jpg',
             price: '₦56',
-            name: 'Easy Polo Black Edition'
+            name: 'Shade'
         },
         {
-            picture: 'images/home/product6.jpg',
+            picture: 'images/perfumes/perfume-1.jpg',
             price: '₦56',
-            name: 'Easy Polo Black Edition'
-        }
+            name: 'Perfume'
+        },
+        {
+            picture: 'images/watch/watch-1.jpg',
+            price: '₦56',
+            name: 'Shoe'
+        },
+        {
+            picture: 'images/boxers/boxer-1.jpg',
+            price: '₦56',
+            name: 'Boxer'
+        },
+        
     ];
 
       // Select the container where products will be added
@@ -43,7 +54,7 @@ const featuredItems = () => {
                   <div class="single-products">
                       <div class="productinfo text-center">
                           <img src="${el.picture}" alt="${el.name}" />
-                          <h2>${el.price}</h2>
+                          <h2></h2>
                           <p>${el.name}</p>
                           <a href="#call-2" class="btn btn-default add-to-cart">Get it now</a>
                       </div>	
