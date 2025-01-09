@@ -6,7 +6,21 @@ const jeans = () => {
             price: '₦56',
             name: 'Suit'
         },
-        
+        {
+            picture: 'images/jean/jean-2.jpg',
+            price: '₦56',
+            name: 'Suit'
+        },
+        {
+            picture: 'images/jean/jean-3.jpg',
+            price: '₦56',
+            name: 'Suit'
+        },
+        {
+            picture: 'images/jean/jean-4.jpg',
+            price: '₦56',
+            name: 'Suit'
+        },
     ];
 
       // Select the container where products will be added

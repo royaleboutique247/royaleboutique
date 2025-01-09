@@ -645,7 +645,7 @@ ul.sub-menu {
 
 .control-carousel {
   position: absolute;
-  top: 50%;
+  top: 40%;
   font-size: 60px;
   color: #C2C2C1;
 }
@@ -1055,7 +1055,7 @@ h2.title {
 
 .recommended-item-control {
   position: absolute;
-  top: 41%;
+  top: 33%;
 }
 
 .recommended-item-control i {
@@ -2526,7 +2526,7 @@ h2.title {
 }
 
 .call {
-  background-color: #eee;
+  background-color: #FE980F;
   display: flex;
   flex-direction: column;
   justify-content: center;

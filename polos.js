@@ -6,7 +6,21 @@ const polos = () => {
             price: '₦56',
             name: 'Suit'
         },
-        
+        {
+            picture: 'images/pollo/pollo-2.jpg',
+            price: '₦56',
+            name: 'Suit'
+        },
+        {
+            picture: 'images/pollo/pollo-3.jpg',
+            price: '₦56',
+            name: 'Suit'
+        },
+        {
+            picture: 'images/pollo/pollo-4.jpg',
+            price: '₦56',
+            name: 'Suit'
+        },
     ];
 
       // Select the container where products will be added

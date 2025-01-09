@@ -6,7 +6,21 @@ const boxers = () => {
             price: '₦56',
             name: 'Suit'
         },
-        
+        {
+            picture: 'images/boxers/boxer-2.avif',
+            price: '₦56',
+            name: 'Suit'
+        },
+        {
+            picture: 'images/boxers/boxer-3.jpg',
+            price: '₦56',
+            name: 'Suit'
+        },
+        {
+            picture: 'images/boxers/boxer-4.webp',
+            price: '₦56',
+            name: 'Suit'
+        },
     ];
 
       // Select the container where products will be added
